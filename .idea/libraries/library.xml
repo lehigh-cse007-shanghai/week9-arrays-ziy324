@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="library">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../Program Files/processing-4.0a2/core/library" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../../../Program Files/processing-4.0a2/core/library" />
+    </NATIVE>
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../Program Files/processing-4.0a2/core/library" recursive="false" />
+  </library>
+</component>
