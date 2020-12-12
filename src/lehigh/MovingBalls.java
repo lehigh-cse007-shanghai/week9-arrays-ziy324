@@ -12,6 +12,7 @@ public class MovingBalls extends PApplet {
     float[] SpeedY = new float[num];
     float radius = 20;
 
+
     public void settings() {
         size(500, 500);
         for (int temp = 0; temp < num; temp++) {
